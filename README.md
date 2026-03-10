@@ -1,11 +1,11 @@
-# Monte Carlo Option Pricing Engine
+# Monte Carlo Option Pricing Engine[![Open App](https://img.shields.io/badge/Open-Streamlit%20App-green)](https://monte-carlo-krish.streamlit.app)
 
 An interactive visual tool for pricing European options using Monte Carlo simulations (Geometric Brownian Motion) and comparing results with the Black-Scholes model. Specifically tailored for the Indian stock market.
 
 ![Monte Carlo Simulation](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![Open App](https://img.shields.io/badge/Open-Streamlit%20App-green)](https://monte-carlo-krish.streamlit.app)
+
 ## 🚀 Features
 
 - **Monte Carlo Simulation**: Simulates asset price paths using Geometric Brownian Motion.
